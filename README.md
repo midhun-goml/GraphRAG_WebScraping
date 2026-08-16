@@ -96,7 +96,7 @@ graph TD
 ### A. Ingest a Document
 Processes the PDF → builds the knowledge graph in Neo4j:
 ```bash
-python app.py ingest data/scraper.pdf
+python app.py ingest data/scraper.md
 ```
 
 ### B. Single Query
